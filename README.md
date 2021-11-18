@@ -2,8 +2,8 @@
 
 
 Technologies:
+![tempsnip](https://user-images.githubusercontent.com/86071721/142508789-c431106d-b449-4e50-a042-30321512f81d.png)
 
-![image](https://user-images.githubusercontent.com/86071721/138681960-c8fa90b5-ea8f-47bd-8120-8b4e193bad31.png)
 
 
 🔭 I’m currently working on a the Final Proyect on Henry bootcamp. Happy Dog!: This is a page created to connect people who needs to take his pet for a walk or taking care of it while on vacation or at work, and people who offers this service
