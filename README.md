@@ -16,4 +16,4 @@ Technologies:
 
 via Email: marcelonieto90@hotmail.com
 
-via LinkedIn: https://www.linkedin.com/in/agustinundev
+via LinkedIn: https://www.linkedin.com/in/marcelo-nieto-90
